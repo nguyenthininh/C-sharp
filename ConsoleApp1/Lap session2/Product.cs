@@ -70,7 +70,6 @@ namespace ConsoleApp1.Lap_session2
         {
             Console.WriteLine("nhap thong tin san pham :");
             Console.WriteLine("nhap id:");
-           // this.id(Convert.ToInt32(Console.ReadLine()));
             this.Id =Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("nhap ten sp:");
             this.Name = Console.ReadLine();
@@ -91,8 +90,8 @@ namespace ConsoleApp1.Lap_session2
             Console.WriteLine("Name:" +this.name);
             Console.WriteLine("Price:" +this.price);
             Console.WriteLine("amount:" +this.qty);
-            Console.WriteLine("Mô tả sản phẩm:" + desc);
-            Console.WriteLine("Ảnh sản phẩm:");
+            Console.WriteLine("Mo ta san pham:" + desc);
+            Console.WriteLine("Anh san pham:");
             foreach(String t in gallery){
                 Console.WriteLine(t);
             }
