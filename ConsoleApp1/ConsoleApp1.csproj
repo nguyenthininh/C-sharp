@@ -15,6 +15,12 @@
       <None Include="Demo\Prime.cs" />
       <Compile Remove="Demo\Program.cs" />
       <None Include="Demo\Program.cs" />
+      <Compile Remove="DelegateDemo\Session3.cs" />
+      <None Include="DelegateDemo\Session3.cs" />
+      <Compile Remove="Demo\Session2.cs" />
+      <None Include="Demo\Session2.cs" />
+      <Compile Remove="Lap session2\Cart.cs" />
+      <None Include="Lap session2\Cart.cs" />
     </ItemGroup>
 
 </Project>
