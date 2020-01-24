@@ -45,6 +45,7 @@ namespace ConsoleApp1.Lap_session2
         {
             get => price;
             set => price = value;
+            
         }
 
         public int Qty

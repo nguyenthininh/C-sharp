@@ -13,6 +13,7 @@ namespace ConsoleApp1.Lap_session2
         private string city;
         private string country;
         
+        
         public event DemoDelegate AddProduct;
 
         public Cart()
