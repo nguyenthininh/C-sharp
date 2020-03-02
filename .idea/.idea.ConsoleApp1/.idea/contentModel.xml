@@ -5,6 +5,9 @@
     <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ConsoleApp1.-2112212706.00" t="ExcludeRecursive" />
     <e p="C:\Users\Admin\RiderProjects\ConsoleApp1" t="IncludeFlat">
       <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="Assignment4" t="Include">
+          <e p="Program.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
         <e p="DelegateDemo" t="Include">
@@ -18,10 +21,18 @@
           <e p="Program.cs" t="Include" />
           <e p="Session2.cs" t="Include" />
         </e>
+        <e p="exam_1" t="Include">
+          <e p="MobilePhone.cs" t="Include" />
+          <e p="Phone.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
         <e p="Lap session2" t="Include">
           <e p="Cart.cs" t="Include" />
           <e p="LapSession2Main.cs" t="Include" />
           <e p="Product.cs" t="Include" />
+        </e>
+        <e p="Lapsession_4" t="Include">
+          <e p="Program.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

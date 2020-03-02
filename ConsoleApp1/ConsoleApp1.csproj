@@ -21,6 +21,8 @@
       <None Include="Demo\Session2.cs" />
       <Compile Remove="Lap session2\Cart.cs" />
       <None Include="Lap session2\Cart.cs" />
+      <Compile Remove="Lap session2\LapSession2Main.cs" />
+      <None Include="Lap session2\LapSession2Main.cs" />
     </ItemGroup>
 
 </Project>
